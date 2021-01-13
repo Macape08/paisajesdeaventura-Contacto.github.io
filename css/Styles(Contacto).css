@@ -148,14 +148,7 @@ body{
     margin-bottom: 20px;
     width: calc(33.33% - 10px);
 }
-.acerca-de .info-container h3{
-    font-size: 25px;
-    font-weight: 300;
-    color: var(--black);
-    margin-left: 20px;
-    margin-bottom: 20px;
-    width: calc(33.33% - 10px);
-}
+
 /* Footer */
 .footer{
     width: 100%;
